@@ -5,8 +5,7 @@ class ReverseString:
     
 reverse_string = ReverseString() 
 
-result1 = reverse_string("Joshua")  
-print(f"Reversed 'hello': {result1}")
+result  = reverse_string("Joshua Ndegwa")  
+print(f"Reversed 'hello': {result}")
 
-result2 = reverse_string("Ndegwa")  
-print(f"Reversed 'Python': {result2}")
+
